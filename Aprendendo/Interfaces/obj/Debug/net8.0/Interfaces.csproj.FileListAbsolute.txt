@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/bin/Debug/net8.0/Interfaces
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll

@@ -1,0 +1,14 @@
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/bin/Debug/net8.0/Aprendendo1
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/bin/Debug/net8.0/Aprendendo1.deps.json
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/bin/Debug/net8.0/Aprendendo1.runtimeconfig.json
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/bin/Debug/net8.0/Aprendendo1.dll
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/bin/Debug/net8.0/Aprendendo1.pdb
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.AssemblyInfoInputs.cache
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.AssemblyInfo.cs
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.csproj.CoreCompileInputs.cache
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.dll
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/refint/Aprendendo1.dll
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.pdb
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/Aprendendo1.genruntimeconfig.cache
+/home/samueldev/Documentos/Meus Projetos/C#/EstruturaDeDados/Array/Aprendendo1/obj/Debug/net8.0/ref/Aprendendo1.dll

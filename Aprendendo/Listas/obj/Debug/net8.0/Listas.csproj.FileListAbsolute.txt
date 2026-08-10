@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/bin/Debug/net8.0/Listas
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/bin/Debug/net8.0/Listas.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/bin/Debug/net8.0/Listas.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/bin/Debug/net8.0/Listas.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/bin/Debug/net8.0/Listas.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/refint/Listas.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/Listas.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Listas/obj/Debug/net8.0/ref/Listas.dll

@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/bin/Debug/net8.0/RevisaoPOO
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/bin/Debug/net8.0/RevisaoPOO.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/bin/Debug/net8.0/RevisaoPOO.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/bin/Debug/net8.0/RevisaoPOO.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/bin/Debug/net8.0/RevisaoPOO.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/refint/RevisaoPOO.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/RevisaoPOO.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Biblioteca/obj/Debug/net8.0/ref/RevisaoPOO.dll
