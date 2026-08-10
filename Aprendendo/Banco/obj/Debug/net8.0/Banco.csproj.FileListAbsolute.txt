@@ -12,3 +12,11 @@
 /home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.pdb
 /home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
 /home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Banco/obj/Debug/net8.0/ref/Banco.dll
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.sourcelink.json
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.dll
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/refint/Banco.dll
+/home/kotei/Documentos/C#/Aprendendo/Banco/obj/Debug/net8.0/Banco.pdb

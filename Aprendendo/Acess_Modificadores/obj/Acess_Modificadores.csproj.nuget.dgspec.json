@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/samuel/Documentos/Meus Projetos/C#/Acess_Modificadores/Acess_Modificadores.csproj": {}
+    "/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/Acess_Modificadores.csproj": {}
   },
   "projects": {
-    "/home/samuel/Documentos/Meus Projetos/C#/Acess_Modificadores/Acess_Modificadores.csproj": {
+    "/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/Acess_Modificadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/samuel/Documentos/Meus Projetos/C#/Acess_Modificadores/Acess_Modificadores.csproj",
+        "projectUniqueName": "/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/Acess_Modificadores.csproj",
         "projectName": "Acess_Modificadores",
-        "projectPath": "/home/samuel/Documentos/Meus Projetos/C#/Acess_Modificadores/Acess_Modificadores.csproj",
-        "packagesPath": "/home/samuel/.nuget/packages/",
-        "outputPath": "/home/samuel/Documentos/Meus Projetos/C#/Acess_Modificadores/obj/",
+        "projectPath": "/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/Acess_Modificadores.csproj",
+        "packagesPath": "/home/kotei/.nuget/packages/",
+        "outputPath": "/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/samuel/.nuget/NuGet/NuGet.Config"
+          "/home/kotei/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -48,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

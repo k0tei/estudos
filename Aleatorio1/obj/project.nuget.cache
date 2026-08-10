@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "z+egsL5V7cw=",
+  "dgSpecHash": "XDLzEJW0svo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\Projeto 1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/kotei/Documentos/C#/Aleatorio1/Projeto 1.csproj",
+  "expectedPackageFiles": [
+    "/home/kotei/.nuget/packages/microsoft.netcore.app.ref/8.0.29/microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "/home/kotei/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.29/microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "/home/kotei/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.29/microsoft.netcore.app.host.linux-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

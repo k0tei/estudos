@@ -1,0 +1,5 @@
+/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/Debug/net8.0/Acess_Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/Debug/net8.0/Acess_Modificadores.AssemblyInfoInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/Debug/net8.0/Acess_Modificadores.AssemblyInfo.cs
+/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/Debug/net8.0/Acess_Modificadores.csproj.CoreCompileInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Acess_Modificadores/obj/Debug/net8.0/Acess_Modificadores.sourcelink.json

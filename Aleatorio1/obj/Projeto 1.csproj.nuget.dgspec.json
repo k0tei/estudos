@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\Projeto 1.csproj": {}
+    "/home/kotei/Documentos/C#/Aleatorio1/Projeto 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\Projeto 1.csproj": {
+    "/home/kotei/Documentos/C#/Aleatorio1/Projeto 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\Projeto 1.csproj",
+        "projectUniqueName": "/home/kotei/Documentos/C#/Aleatorio1/Projeto 1.csproj",
         "projectName": "Projeto 1",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\Projeto 1.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Meus Projetos\\C#\\Projeto 1\\obj\\",
+        "projectPath": "/home/kotei/Documentos/C#/Aleatorio1/Projeto 1.csproj",
+        "packagesPath": "/home/kotei/.nuget/packages/",
+        "outputPath": "/home/kotei/Documentos/C#/Aleatorio1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/kotei/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -55,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
