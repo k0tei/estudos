@@ -1,4 +1,0 @@
-/home/samuel/Documentos/Meus Projetos/C#/Heranca_POO/obj/Debug/net8.0/Heranca_POO.GeneratedMSBuildEditorConfig.editorconfig
-/home/samuel/Documentos/Meus Projetos/C#/Heranca_POO/obj/Debug/net8.0/Heranca_POO.AssemblyInfoInputs.cache
-/home/samuel/Documentos/Meus Projetos/C#/Heranca_POO/obj/Debug/net8.0/Heranca_POO.AssemblyInfo.cs
-/home/samuel/Documentos/Meus Projetos/C#/Heranca_POO/obj/Debug/net8.0/Heranca_POO.csproj.CoreCompileInputs.cache
