@@ -1,0 +1,14 @@
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.AssemblyInfoInputs.cache
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.AssemblyInfo.cs
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.csproj.CoreCompileInputs.cache
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/bin/Debug/net8.0/JogadorInimigo
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/bin/Debug/net8.0/JogadorInimigo.deps.json
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/bin/Debug/net8.0/JogadorInimigo.runtimeconfig.json
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/bin/Debug/net8.0/JogadorInimigo.dll
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/bin/Debug/net8.0/JogadorInimigo.pdb
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.dll
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/refint/JogadorInimigo.dll
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.pdb
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/JogadorInimigo.genruntimeconfig.cache
+/home/samueldev/Documentos/Meus Projetos/C#/OdeioEster/JogadorInimigo/obj/Debug/net8.0/ref/JogadorInimigo.dll

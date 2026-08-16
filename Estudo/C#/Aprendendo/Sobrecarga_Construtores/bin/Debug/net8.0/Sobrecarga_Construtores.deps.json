@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sobrecarga_Construtores/1.0.0": {
+        "runtime": {
+          "Sobrecarga_Construtores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sobrecarga_Construtores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

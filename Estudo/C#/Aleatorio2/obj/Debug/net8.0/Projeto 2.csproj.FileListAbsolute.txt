@@ -1,0 +1,43 @@
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.exe
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.deps.json
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.runtimeconfig.json
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.pdb
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.AssemblyInfo.cs
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/refint/Projeto 2.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.pdb
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.genruntimeconfig.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/ref/Projeto 2.dll
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.dll
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/bin/Debug/net8.0/Projeto 2.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.dll
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/refint/Projeto 2.dll
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/Projeto 2.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Projeto 2/obj/Debug/net8.0/ref/Projeto 2.dll
+/home/kotei/Documentos/C#/Aleatorio2/bin/Debug/net8.0/Projeto 2
+/home/kotei/Documentos/C#/Aleatorio2/bin/Debug/net8.0/Projeto 2.deps.json
+/home/kotei/Documentos/C#/Aleatorio2/bin/Debug/net8.0/Projeto 2.runtimeconfig.json
+/home/kotei/Documentos/C#/Aleatorio2/bin/Debug/net8.0/Projeto 2.dll
+/home/kotei/Documentos/C#/Aleatorio2/bin/Debug/net8.0/Projeto 2.pdb
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.AssemblyInfoInputs.cache
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.AssemblyInfo.cs
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.csproj.CoreCompileInputs.cache
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.sourcelink.json
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.dll
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/refint/Projeto 2.dll
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.pdb
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/Projeto 2.genruntimeconfig.cache
+/home/kotei/Documentos/C#/Aleatorio2/obj/Debug/net8.0/ref/Projeto 2.dll

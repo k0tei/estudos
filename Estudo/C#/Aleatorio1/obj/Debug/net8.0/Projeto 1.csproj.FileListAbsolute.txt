@@ -1,0 +1,29 @@
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/bin/Debug/net8.0/Projeto 1.exe
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/bin/Debug/net8.0/Projeto 1.deps.json
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/bin/Debug/net8.0/Projeto 1.runtimeconfig.json
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/bin/Debug/net8.0/Projeto 1.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/bin/Debug/net8.0/Projeto 1.pdb
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.AssemblyInfoInputs.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.AssemblyInfo.cs
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/refint/Projeto 1.dll
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.pdb
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/Projeto 1.genruntimeconfig.cache
+C:/Users/Usuario/Documents/Meus Projetos/C#/Projeto 1/obj/Debug/net8.0/ref/Projeto 1.dll
+/home/kotei/Documentos/C#/Aleatorio1/bin/Debug/net8.0/Projeto 1
+/home/kotei/Documentos/C#/Aleatorio1/bin/Debug/net8.0/Projeto 1.deps.json
+/home/kotei/Documentos/C#/Aleatorio1/bin/Debug/net8.0/Projeto 1.runtimeconfig.json
+/home/kotei/Documentos/C#/Aleatorio1/bin/Debug/net8.0/Projeto 1.dll
+/home/kotei/Documentos/C#/Aleatorio1/bin/Debug/net8.0/Projeto 1.pdb
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.AssemblyInfoInputs.cache
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.AssemblyInfo.cs
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.csproj.CoreCompileInputs.cache
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.sourcelink.json
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.dll
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/refint/Projeto 1.dll
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.pdb
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/Projeto 1.genruntimeconfig.cache
+/home/kotei/Documentos/C#/Aleatorio1/obj/Debug/net8.0/ref/Projeto 1.dll

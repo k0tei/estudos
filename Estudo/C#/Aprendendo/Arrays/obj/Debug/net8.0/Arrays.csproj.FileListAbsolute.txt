@@ -1,0 +1,29 @@
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/bin/Debug/net8.0/Arrays
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Arrays/obj/Debug/net8.0/ref/Arrays.dll
+/home/kotei/Documentos/C#/Aprendendo/Arrays/bin/Debug/net8.0/Arrays
+/home/kotei/Documentos/C#/Aprendendo/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/kotei/Documentos/C#/Aprendendo/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/kotei/Documentos/C#/Aprendendo/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/kotei/Documentos/C#/Aprendendo/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/kotei/Documentos/C#/Aprendendo/Arrays/obj/Debug/net8.0/ref/Arrays.dll

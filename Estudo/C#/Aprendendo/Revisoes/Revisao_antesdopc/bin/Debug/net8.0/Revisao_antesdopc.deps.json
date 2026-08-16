@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Revisao_antesdopc/1.0.0": {
+        "runtime": {
+          "Revisao_antesdopc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisao_antesdopc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

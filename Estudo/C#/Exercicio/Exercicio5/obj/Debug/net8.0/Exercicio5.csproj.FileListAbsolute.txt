@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/bin/Debug/net8.0/Exercicio5
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/bin/Debug/net8.0/Exercicio5.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/bin/Debug/net8.0/Exercicio5.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/bin/Debug/net8.0/Exercicio5.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/bin/Debug/net8.0/Exercicio5.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/refint/Exercicio5.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/Exercicio5.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio5/obj/Debug/net8.0/ref/Exercicio5.dll

@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/bin/Debug/net8.0/Revisao2109
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/bin/Debug/net8.0/Revisao2109.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/bin/Debug/net8.0/Revisao2109.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/bin/Debug/net8.0/Revisao2109.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/bin/Debug/net8.0/Revisao2109.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/refint/Revisao2109.dll
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/Revisao2109.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Aprendendo/Revisao2109/obj/Debug/net8.0/ref/Revisao2109.dll

@@ -1,0 +1,14 @@
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/bin/Debug/net8.0/Exercicio6
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/bin/Debug/net8.0/Exercicio6.deps.json
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/bin/Debug/net8.0/Exercicio6.runtimeconfig.json
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/bin/Debug/net8.0/Exercicio6.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/bin/Debug/net8.0/Exercicio6.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.AssemblyInfoInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.AssemblyInfo.cs
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/refint/Exercicio6.dll
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.pdb
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/Exercicio6.genruntimeconfig.cache
+/home/samuel/Documentos/Meus Projetos/C#/Exercicio/Exercicio6/obj/Debug/net8.0/ref/Exercicio6.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RevisaoPOO/1.0.0": {
+        "runtime": {
+          "RevisaoPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevisaoPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
